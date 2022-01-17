@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1031953655929",
+    "firebase_url": "https://listku-a388e-default-rtdb.firebaseio.com",
+    "project_id": "listku-a388e",
+    "storage_bucket": "listku-a388e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031953655929:android:568780bc5d19ea62c38ca8",
+        "android_client_info": {
+          "package_name": "com.example.listku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031953655929-oglu4osi5hq7q6c5tk6rjka6qu74vsoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPDh2pIwQeNSdj0h-pDiRG-bLpKTfCnVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031953655929-oglu4osi5hq7q6c5tk6rjka6qu74vsoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

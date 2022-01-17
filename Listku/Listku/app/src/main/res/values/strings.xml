@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mylist</string>
+    <string name="all">TODO</string>
+    <string name="name">Nama Mylist</string>
+    <string name="date">15 Feb</string>
+    <string name="title_activity_main">Mylist</string>
+    <string name="subtitle_activity_main">2021</string>
+    <string name="title_activity_add">Tambah List Baru</string>
+    <string name="title_activity_edit">Update Data</string>
+    <string name="name_form">Judul</string>
+    <string name="date_form">Tanggal</string>
+    <string name="url_form">Url Gambar</string>
+    <string name="description_form">Deskripsi</string>
+    <string name="save">Simpan</string>
+    <string name="description">Isi Deskripsi Listku.</string>
+    <string name="edit">Edit</string>
+</resources>
